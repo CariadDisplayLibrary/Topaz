@@ -1,2 +1,4 @@
-Topaz.cpp libraries/DisplayCore/Topaz
-Topaz.h libraries/DisplayCore/Topaz
+library.json libraries/DisplayCore/Topaz
+library.properties libraries/DisplayCore/Topaz
+README.md libraries/DisplayCore/Topaz
+src libraries/DisplayCore/Topaz
