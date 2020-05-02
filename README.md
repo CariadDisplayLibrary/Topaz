@@ -10,5 +10,5 @@ Preview images
 --------------
 * Fonts::Topaz 
 
-![Topaz](https://raw.githubusercontent.com/DisplayCore/Topaz/master/Preview/Topaz.png)
+![Topaz](https://raw.githubusercontent.com/Cariad/Topaz/master/Preview/Topaz.png)
 
